@@ -11,13 +11,13 @@
     "promise",
     "node"
   ],
-  "homepage": "https://github.com/giovanifranz/woocommerce-rest-api-js-lib",
+  "homepage": "https://github.com/giovanifranz/woocommerce-rest-api",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giovanifranz/woocommerce-rest-api-js-lib"
+    "url": "git+https://github.com/giovanifranz/woocommerce-rest-api"
   },
   "bugs": {
-    "url": "https://github.com/giovanifranz/woocommerce-rest-api-js-lib/issues"
+    "url": "https://github.com/giovanifranz/woocommerce-rest-api/issues"
   },
   "main": "index.js",
   "module": "index.mjs",
